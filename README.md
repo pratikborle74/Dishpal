@@ -3,7 +3,7 @@
 
 Dishpal is an intelligent kitchen assistant designed to make cooking effortless, efficient, and enjoyable. Combining cutting-edge AI with user-friendly features, Dishpal helps you create personalized recipes, manage your pantry, and recognize ingredients through visual recognition—all in a warm, kitchen-friendly interface.
 
-Key Features:
+Key Features: 
 ✅ AI-Generated Recipes – Get fully customizable recipes based on your preferred cuisine, calorie goals, and macronutrient needs.
 ✅ Pantry Management – Keep track of your pantry stock and automatically update it when you use ingredients.
 ✅ Visual Ingredient Recognition – Scan ingredients with your camera to identify them instantly.
